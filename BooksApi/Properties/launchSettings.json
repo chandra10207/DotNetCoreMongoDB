@@ -20,7 +20,7 @@
     "BooksApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "swagger",
       "applicationUrl": "https://localhost:7201;http://localhost:7020",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
